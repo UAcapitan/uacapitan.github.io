@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "settings": {
+    "enabled": true
+  },
+  "blocks": {
+    "random_9": {
+      "enabled": true,
+      "count": 9
+    },
+    "random_3": {
+      "enabled": true,
+      "count": 3
+    },
+    "promo": {
+      "enabled": true,
+      "game_id": "com.usefulsoc.blockboomsaga"
+    },
+    "new_game": {
+      "enabled": true,
+      "game_id": "com.usefulsoc.cubicsnake"
+    }
+  },
+  "games": [
+    {
+      "id": "com.usefulsoc.mymines",
+      "name": "My Mines",
+      "icon": "https://uacapitan.github.io/images/mymines.png",
+      "banner": "https://uacapitan.github.io/images/mymines.png",
+      "google_play": "https://play.google.com/store/apps/details?id=com.usefulsoc.mymines",
+      "enabled": true
+    },
+    {
+      "id": "com.usefulsoc.becomerich",
+      "name": "Become Rich",
+      "icon": "https://uacapitan.github.io/images/becomerich.webp",
+      "banner": "https://uacapitan.github.io/images/becomerich.webp",
+      "google_play": "https://play.google.com/store/apps/details?id=com.usefulsoc.becomerich",
+      "enabled": true
+    },
+    {
+      "id": "com.usefulsoc.cubicsnake",
+      "name": "Cubic Snake",
+      "icon": "https://uacapitan.github.io/images/cubicsnake.png",
+      "banner": "https://uacapitan.github.io/images/cubicsnake.png",
+      "google_play": "https://play.google.com/store/apps/details?id=com.usefulsoc.cubicsnake",
+      "enabled": true
+    },
+    {
+      "id": "com.usefulsoc.legendaryninja",
+      "name": "Legendary Ninja",
+      "icon": "https://uacapitan.github.io/images/legendaryninja.png",
+      "banner": "https://uacapitan.github.io/images/legendaryninja.png",
+      "google_play": "https://play.google.com/store/apps/details?id=com.usefulsoc.legendaryninja",
+      "enabled": true
+    },
+    {
+      "id": "com.usefulsoc.blockboomsaga",
+      "name": "Block Boom Saga",
+      "icon": "https://uacapitan.github.io/images/blockboomsaga.png",
+      "banner": "https://uacapitan.github.io/images/blockboomsaga.png",
+      "google_play": "https://play.google.com/store/apps/details?id=com.usefulsoc.blockboomsaga",
+      "enabled": true
+    }
+  ]
+}
