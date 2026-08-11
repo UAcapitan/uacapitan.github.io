@@ -25,6 +25,7 @@
     {
       "id": "com.usefulsoc.mymines",
       "name": "My Mines",
+      "description": "Build mines, automate production, and grow your idle mining empire.",
       "icon": "https://uacapitan.github.io/images/mymines.png",
       "banner": "https://uacapitan.github.io/images/mymines.png",
       "google_play": "https://play.google.com/store/apps/details?id=com.usefulsoc.mymines",
@@ -33,6 +34,7 @@
     {
       "id": "com.usefulsoc.becomerich",
       "name": "Become Rich",
+      "description": "Build your fortune and turn small choices into a growing empire.",
       "icon": "https://uacapitan.github.io/images/becomerich.webp",
       "banner": "https://uacapitan.github.io/images/becomerich.webp",
       "google_play": "https://play.google.com/store/apps/details?id=com.usefulsoc.becomerich",
@@ -41,6 +43,7 @@
     {
       "id": "com.usefulsoc.cubicsnake",
       "name": "Cubic Snake",
+      "description": "Guide the snake, collect food, and grow through colorful 3D levels.",
       "icon": "https://uacapitan.github.io/images/cubicsnake.png",
       "banner": "https://uacapitan.github.io/images/cubicsnake.png",
       "google_play": "https://play.google.com/store/apps/details?id=com.usefulsoc.cubicsnake",
@@ -49,6 +52,7 @@
     {
       "id": "com.usefulsoc.legendaryninja",
       "name": "Legendary Ninja",
+      "description": "Jump, dodge obstacles, and master fast-paced ninja challenges.",
       "icon": "https://uacapitan.github.io/images/legendaryninja.png",
       "banner": "https://uacapitan.github.io/images/legendaryninja.png",
       "google_play": "https://play.google.com/store/apps/details?id=com.usefulsoc.legendaryninja",
@@ -57,6 +61,7 @@
     {
       "id": "com.usefulsoc.blockboomsaga",
       "name": "Block Boom Saga",
+      "description": "Match and blast colorful blocks in satisfying puzzle levels.",
       "icon": "https://uacapitan.github.io/images/blockboomsaga.png",
       "banner": "https://uacapitan.github.io/images/blockboomsaga.png",
       "google_play": "https://play.google.com/store/apps/details?id=com.usefulsoc.blockboomsaga",
