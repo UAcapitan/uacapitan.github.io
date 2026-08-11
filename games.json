@@ -6,19 +6,23 @@
   "blocks": {
     "random_9": {
       "enabled": true,
-      "count": 9
+      "count": 9,
+      "chance": 25
     },
     "random_3": {
       "enabled": true,
-      "count": 3
+      "count": 3,
+      "chance": 25
     },
     "promo": {
       "enabled": true,
-      "game_id": "com.usefulsoc.blockboomsaga"
+      "game_id": "com.usefulsoc.blockboomsaga",
+      "chance": 25
     },
     "new_game": {
       "enabled": true,
-      "game_id": "com.usefulsoc.cubicsnake"
+      "game_id": "com.usefulsoc.cubicsnake",
+      "chance": 25
     }
   },
   "games": [
