@@ -36,7 +36,7 @@
       "icon": "https://uacapitan.github.io/images/becomerich.webp",
       "banner": "https://uacapitan.github.io/images/becomerich.webp",
       "google_play": "https://play.google.com/store/apps/details?id=com.usefulsoc.becomerich",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "com.usefulsoc.cubicsnake",
