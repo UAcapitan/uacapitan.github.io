@@ -7,22 +7,22 @@
     "random_9": {
       "enabled": true,
       "count": 9,
-      "chance": 25
+      "chance": 100
     },
     "random_3": {
       "enabled": true,
       "count": 3,
-      "chance": 25
+      "chance": 0
     },
     "promo": {
       "enabled": true,
       "game_id": "com.usefulsoc.blockboomsaga",
-      "chance": 25
+      "chance": 0
     },
     "new_game": {
       "enabled": true,
       "game_id": "com.usefulsoc.cubicsnake",
-      "chance": 25
+      "chance": 0
     }
   },
   "games": [
