@@ -16,19 +16,19 @@
     },
     "promo": {
       "enabled": true,
-      "game_id": "com.usefulsoc.blockboomsaga",
-      "chance": 25
+      "game_id": "com.usefulsoc.mymines",
+      "chance": 50
     },
     "new_game": {
-      "enabled": true,
+      "enabled": false,
       "game_id": "com.usefulsoc.cubicsnake",
-      "chance": 25
+      "chance": 0
     }
   },
   "games": [
     {
       "id": "com.usefulsoc.mymines",
-      "name": "My Mines",
+      "name": "My Mines: Idle Tycoon Game",
       "description": "Build mines, automate production, and grow your idle mining empire.",
       "tags": ["OFFLINE", "IDLE", "TYCOON", "FREE"],
       "icon": "https://uacapitan.github.io/images/mymines.png",
@@ -38,17 +38,17 @@
     },
     {
       "id": "com.usefulsoc.becomerich",
-      "name": "Become Rich",
+      "name": "Become Rich: Idle Clicker",
       "description": "Build your fortune and turn small choices into a growing empire.",
       "tags": ["CASUAL", "SIMULATION", "IDLE", "FREE"],
       "icon": "https://uacapitan.github.io/images/becomerich.webp",
       "banner": "https://uacapitan.github.io/images/becomerich.webp",
       "google_play": "https://play.google.com/store/apps/details?id=com.usefulsoc.becomerich",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "com.usefulsoc.cubicsnake",
-      "name": "Cubic Snake",
+      "name": "Cubic Snake 3D: Classic Arcade",
       "description": "Guide the snake, collect food, and grow through colorful 3D levels.",
       "tags": ["OFFLINE", "CASUAL", "ARCADE", "FREE"],
       "icon": "https://uacapitan.github.io/images/cubicsnake.png",
@@ -58,7 +58,7 @@
     },
     {
       "id": "com.usefulsoc.legendaryninja",
-      "name": "Legendary Ninja",
+      "name": "Legendary Ninja: Jump & Climb",
       "description": "Jump, dodge obstacles, and master fast-paced ninja challenges.",
       "tags": ["OFFLINE", "ACTION", "CASUAL", "FREE"],
       "icon": "https://uacapitan.github.io/images/legendaryninja.png",
@@ -74,6 +74,36 @@
       "icon": "https://uacapitan.github.io/images/blockboomsaga.png",
       "banner": "https://uacapitan.github.io/images/blockboomsaga.png",
       "google_play": "https://play.google.com/store/apps/details?id=com.usefulsoc.blockboomsaga",
+      "enabled": true
+    },
+    {
+      "id": "com.usefulsoc.cities2048",
+      "name": "Cities 2048: Merge Saga",
+      "description": "Merge 2048 tiles, unlock buildings and build 3 unique city islands now!",
+      "tags": ["CASUAL", "PUZZLE", "2048", "FREE"],
+      "icon": "https://uacapitan.github.io/images/cities2048.png",
+      "banner": "https://uacapitan.github.io/images/cities2048.png",
+      "google_play": "https://play.google.com/store/apps/details?id=com.usefulsoc.cities2048",
+      "enabled": true
+    },
+    {
+      "id": "com.usefulsoc.freeflowdots",
+      "name": "FreeFlow Dots Saga",
+      "description": "Connect matching dots, solve colorful puzzles, and master every flow!",
+      "tags": ["CASUAL", "PUZZLE", "LOGIC", "FREE"],
+      "icon": "https://uacapitan.github.io/images/freeflowdots.png",
+      "banner": "https://uacapitan.github.io/images/freeflowdots.png",
+      "google_play": "https://play.google.com/store/apps/details?id=com.usefulsoc.freeflowdots",
+      "enabled": true
+    },
+    {
+      "id": "com.usefulsoc.whoruparents",
+      "name": "Who are your parents?",
+      "description": "Match parents and uncover every family connection!",
+      "tags": ["CASUAL", "PUZZLE", "FAMILY", "FREE"],
+      "icon": "https://uacapitan.github.io/images/whoruparents.png",
+      "banner": "https://uacapitan.github.io/images/whoruparents.png",
+      "google_play": "https://play.google.com/store/apps/details?id=com.usefulsoc.whoruparents",
       "enabled": true
     }
   ]
