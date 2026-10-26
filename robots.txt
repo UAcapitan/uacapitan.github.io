@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uacapitan.github.io/sitemap.xml
