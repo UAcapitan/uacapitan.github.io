@@ -55,3 +55,9 @@ freewheel.tv, 536359-r-523319, RESELLER
 adform.com, 3354, RESELLER, 9f5210a2f0999e32
 
 pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
+
+# Onetag
+onetag.com, 984ea17cb03a69b, DIRECT
+onetag.com, 984ea17cb03a69b-OB, DIRECT
+video.unrulymedia.com, 586616193, RESELLER
+smartadserver.com, 4111, RESELLER
