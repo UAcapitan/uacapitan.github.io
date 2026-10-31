@@ -1,4 +1,5 @@
 google.com, pub-7593676784125728, DIRECT, f08c47fec0942fa0
+vungle.com, 6ae536fb008cfe5bdcefb596, DIRECT, c107d686becd2d77
 
 smartadserver.com, 4194-OB, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4194, RESELLER, 060d053dcf45cbf3
